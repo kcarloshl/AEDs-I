@@ -1,0 +1,9 @@
+
+# Arquivos compactados
+*.zip
+*.rar
+*.7z
+
+# Arquivos compilados
+*.exe
+*.o
